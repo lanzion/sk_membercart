@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>V卡会员</title>
+</head>
+
+<body>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+  <script type="text/javascript">
+    function search(key) {
+      if (!key) return;
+      var reg = new RegExp("(^|&)" + key + "=([^&]*)(&|$)");
+      var url = window.location.hash == '' ? window.location.search : window.location.hash.substring(window.location.hash.indexOf('?'));
+      var r = url.substr(1).match(reg);
+      if (r != null) return unescape(r[2]);
+      return null;
+    }
+    var t = search('t');
+    if (t == null) {
+      var searchStr = window.location.hash == '' ? window.location.search : window.location.hash;
+      if (searchStr.indexOf('?')>-1) {
+        searchStr += '&';
+      } else {
+        searchStr += '?';
+      }
+      searchStr += 't=' + new Date().valueOf();
+      location.href = location.origin + location.pathname + searchStr;
+    }
+    
+  </script>
+</body>
+
+</html>

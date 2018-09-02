@@ -1,0 +1,69 @@
+{
+  "Data": [
+    {
+      "Kind": "null",
+      "MarketPrice": 999,
+      "ProductImage": "[{\"FileId\":0,\"FilePath\":\"/res/gdtvimg/20180418/fc82aba557b440dfa7137bb951b828b3.jpg\",\"FileName\":null,\"FileExt\":\"jpg\",\"ServerUrl\":\"http://gdtvimg.weixinmvp.com\",\"SplitList\":null}]",
+      "ProductName": "金丝皇菊",
+      "ShortDesc": "一朵一杯 滋味鲜醇 泡开的皇菊",
+      "ProductNo": "041812029701",
+      "SaleCount": 598,
+      "SalePrice": 58,
+      "Url": "https://gdtvshop.weixinmvp.com/wap/shop/productdetail.aspx?no=041812029701"
+    },
+    {
+      "Kind": "null",
+      "MarketPrice": 99,
+      "ProductImage": "[{\"FileId\":0,\"FilePath\":\"/res/gdtvimg/20180418/fc82aba557b440dfa7137bb951b828b3.jpg\",\"FileName\":null,\"FileExt\":\"jpg\",\"ServerUrl\":\"http://gdtvimg.weixinmvp.com\",\"SplitList\":null}]",
+      "ProductName": "金丝皇菊",
+      "ShortDesc":"",
+      "ProductNo": "041812029701",
+      "SaleCount": 598,
+      "SalePrice": 58,
+      "Url": "https://gdtvshop.weixinmvp.com/wap/shop/productdetail.aspx?no=041812029701"
+    },
+    {
+      "Kind": "null",
+      "ProductImage": "[{\"FileId\":0,\"FilePath\":\"/res/gdtvimg/20180418/fc82aba557b440dfa7137bb951b828b3.jpg\",\"FileName\":null,\"FileExt\":\"jpg\",\"ServerUrl\":\"http://gdtvimg.weixinmvp.com\",\"SplitList\":null}]",
+      "MarketPrice": 0,
+      "ProductName": "金丝皇菊",
+      "ShortDesc": "一朵一杯 滋味鲜醇 泡开的皇菊",
+      "ProductNo": "041812029701",
+      "SaleCount": 598,
+      "SalePrice": 58,
+      "Url": "https://gdtvshop.weixinmvp.com/wap/shop/productdetail.aspx?no=041812029701"
+    },
+    {
+      "Kind": "null",
+      "MarketPrice": 999,
+      "ProductImage": "[{\"FileId\":0,\"FilePath\":\"/res/gdtvimg/20180418/fc82aba557b440dfa7137bb951b828b3.jpg\",\"FileName\":null,\"FileExt\":\"jpg\",\"ServerUrl\":\"http://gdtvimg.weixinmvp.com\",\"SplitList\":null}]",
+      "ProductName": "金丝皇菊",
+      "ProductNo": "041812029701",
+      "SaleCount": 598,
+      "SalePrice": 58,
+      "Url": "https://gdtvshop.weixinmvp.com/wap/shop/productdetail.aspx?no=041812029701"
+    },
+    {
+      "Kind": "null",
+      "ProductImage": "[{\"FileId\":0,\"FilePath\":\"/res/gdtvimg/20180418/fc82aba557b440dfa7137bb951b828b3.jpg\",\"FileName\":null,\"FileExt\":\"jpg\",\"ServerUrl\":\"http://gdtvimg.weixinmvp.com\",\"SplitList\":null}]",
+      "MarketPrice": 0,
+      "ProductName": "金丝皇菊",
+      "ShortDesc": "一朵一杯 滋味鲜醇 泡开的皇菊",
+      "ProductNo": "041812029701",
+      "SaleCount": 598,
+      "SalePrice": 58,
+      "Url": "https://gdtvshop.weixinmvp.com/wap/shop/productdetail.aspx?no=041812029701"
+    },
+    {
+      "Kind": "null",
+      "ProductImage": "[{\"FileId\":0,\"FilePath\":\"/res/gdtvimg/20180418/fc82aba557b440dfa7137bb951b828b3.jpg\",\"FileName\":null,\"FileExt\":\"jpg\",\"ServerUrl\":\"http://gdtvimg.weixinmvp.com\",\"SplitList\":null}]",
+      "MarketPrice": 0,
+      "ProductName": "金丝皇菊",
+      "ShortDesc": "一朵一杯 滋味鲜醇 泡开的皇菊",
+      "ProductNo": "041812029701",
+      "SaleCount": 598,
+      "SalePrice": 58,
+      "Url": "https://gdtvshop.weixinmvp.com/wap/shop/productdetail.aspx?no=041812029701"
+    }
+  ]
+}
